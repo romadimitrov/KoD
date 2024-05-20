@@ -7,6 +7,7 @@
 - Artificial intelligence for enemies
 - Collision detection and interaction with background
 - Collision Detection between Actors
+- Movement, aiming and shooting for player and enemies
 
 ## Images:
 
